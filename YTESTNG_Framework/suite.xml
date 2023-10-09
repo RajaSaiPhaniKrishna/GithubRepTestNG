@@ -1,0 +1,12 @@
+<suite name = "Phani">
+<test name = "Report">
+<classes>
+<class name = "sep11.FirsttestNGclass">
+</class>
+<class name = "sep11.SecondtestNGclass">
+</class>
+<class name = "sep11.ThirdtestNGclass">
+</class>
+</classes>
+</test>
+</suite>
